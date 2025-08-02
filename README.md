@@ -1,4 +1,4 @@
-# "Global IBAN & SWIFT Validator" - final-project-group3
+*# "Global IBAN & SWIFT Validator" - final-project-group3
 This project is a collaborative effort to build a dashboard that validades IBAN and SWIFT number using the [Bank Data API](https://bankdataapi.com/).
 
 # Project Overview
